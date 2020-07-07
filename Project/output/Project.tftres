@@ -1,36 +1,36 @@
 <Resource>
     <pages>
         <page name="Screen7" id="0" />
-        <page name="Screen0" id="1" />
-        <page name="Screen1" id="2" />
-        <page name="Screen2" id="3" />
+        <page name="Screen2" id="1" />
+        <page name="Screen0" id="2" />
+        <page name="Screen1" id="3" />
         <page name="Screen3" id="4" />
         <page name="Screen4" id="5" />
         <page name="Screen5" id="6" />
         <page name="Screen6" id="7" />
     </pages>
     <images>
-        <image id="0" url="c:\users\guanghui\documents\project\Images\安坐.gif" effect_width="240" effect_height="400" />
-        <image id="1" url="c:\users\guanghui\documents\project\Images\背景图.png" effect_width="800" effect_height="480" />
-        <image id="2" url="c:\users\guanghui\documents\project\Images\Stimulation.png" effect_width="128" effect_height="128" />
-        <image id="3" url="c:\users\guanghui\documents\project\Images\Schwelkiller.png" effect_width="128" effect_height="128" />
-        <image id="4" url="c:\users\guanghui\documents\project\Images\EMG Anzeige.png" effect_width="128" effect_height="128" />
-        <image id="5" url="c:\users\guanghui\documents\project\Images\ETS.png" effect_width="128" effect_height="128" />
-        <image id="6" url="c:\users\guanghui\documents\project\Images\Messen.png" effect_width="128" effect_height="128" />
-        <image id="7" url="c:\users\guanghui\documents\project\Images\Therapletagebuch.png" effect_width="128" effect_height="128" />
-        <image id="8" url="c:\users\guanghui\documents\project\Images\Einstellungen.png" effect_width="128" effect_height="128" />
-        <image id="9" url="c:\users\guanghui\documents\project\Images\系统信息.png" effect_width="128" effect_height="128" />
-        <image id="10" url="c:\users\guanghui\documents\project\Images\电池_副本.png" effect_width="54" effect_height="27" />
-        <image id="11" url="c:\users\guanghui\documents\project\Images\luxshare-ict logo_副本.png" effect_width="203" effect_height="63" />
-        <image id="12" url="c:\users\guanghui\documents\project\Images\其他界面背景色.jpg" effect_width="800" effect_height="480" />
-        <image id="13" url="c:\users\guanghui\documents\project\Images\icon1.ICON" effect_width="162" effect_height="42" />
-        <image id="14" url="c:\users\guanghui\documents\project\Images\home键.png" effect_width="100" effect_height="100" />
-        <image id="15" url="c:\users\guanghui\documents\project\Images\800_480_PNG_副本.jpg" effect_width="800" effect_height="480" />
-        <image id="16" url="c:\users\guanghui\documents\project\Images\status.ICON" effect_width="126" effect_height="125" />
-        <image id="17" url="c:\users\guanghui\documents\project\Images\20.jpg" effect_width="800" effect_height="480" />
-        <image id="18" url="c:\users\guanghui\documents\project\Images\50.jpg" effect_width="800" effect_height="480" />
-        <image id="19" url="c:\users\guanghui\documents\project\Images\40.jpg" effect_width="800" effect_height="480" />
-        <image id="20" url="c:\users\guanghui\documents\project\Images\提示对话框.jpg" effect_width="500" effect_height="317" />
+        <image id="0" url="d:\c_code\testgit\project\Images\安坐.gif" effect_width="240" effect_height="400" />
+        <image id="1" url="d:\c_code\testgit\project\Images\800_480_PNG_副本.jpg" effect_width="800" effect_height="480" />
+        <image id="2" url="d:\c_code\testgit\project\Images\home键.png" effect_width="100" effect_height="100" />
+        <image id="3" url="d:\c_code\testgit\project\Images\status.ICON" effect_width="126" effect_height="125" />
+        <image id="4" url="d:\c_code\testgit\project\Images\背景图.png" effect_width="800" effect_height="480" />
+        <image id="5" url="d:\c_code\testgit\project\Images\Stimulation.png" effect_width="128" effect_height="128" />
+        <image id="6" url="d:\c_code\testgit\project\Images\Schwelkiller.png" effect_width="128" effect_height="128" />
+        <image id="7" url="d:\c_code\testgit\project\Images\EMG Anzeige.png" effect_width="128" effect_height="128" />
+        <image id="8" url="d:\c_code\testgit\project\Images\ETS.png" effect_width="128" effect_height="128" />
+        <image id="9" url="d:\c_code\testgit\project\Images\Messen.png" effect_width="128" effect_height="128" />
+        <image id="10" url="d:\c_code\testgit\project\Images\Therapletagebuch.png" effect_width="128" effect_height="128" />
+        <image id="11" url="d:\c_code\testgit\project\Images\Einstellungen.png" effect_width="128" effect_height="128" />
+        <image id="12" url="d:\c_code\testgit\project\Images\系统信息.png" effect_width="128" effect_height="128" />
+        <image id="13" url="d:\c_code\testgit\project\Images\电池_副本.png" effect_width="54" effect_height="27" />
+        <image id="14" url="d:\c_code\testgit\project\Images\luxshare-ict logo_副本.png" effect_width="203" effect_height="63" />
+        <image id="15" url="d:\c_code\testgit\project\Images\其他界面背景色.jpg" effect_width="800" effect_height="480" />
+        <image id="16" url="d:\c_code\testgit\project\Images\icon1.ICON" effect_width="162" effect_height="42" />
+        <image id="17" url="d:\c_code\testgit\project\Images\20.jpg" effect_width="800" effect_height="480" />
+        <image id="18" url="d:\c_code\testgit\project\Images\50.jpg" effect_width="800" effect_height="480" />
+        <image id="19" url="d:\c_code\testgit\project\Images\40.jpg" effect_width="800" effect_height="480" />
+        <image id="20" url="d:\c_code\testgit\project\Images\提示对话框.jpg" effect_width="500" effect_height="317" />
     </images>
     <waves />
 </Resource>
